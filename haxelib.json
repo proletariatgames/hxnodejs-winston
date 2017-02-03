@@ -1,0 +1,14 @@
+{
+  "name": "hxnodejs-winston",
+  "url": "https://github.com/proletariatgames/hxnodejs-winston",
+  "license": "MIT",
+  "classPath": "src",
+  "tags": ["nodejs", "winston"],
+  "description": "Externs for the winston NPM module",
+  "releasenote": "Initial release",
+  "version": "2.3.1",
+  "contributors": ["Proletariat", "lpetre", "danogles", "waneck"],
+  "dependencies": {
+    "hxnodejs": ""
+  }
+}
